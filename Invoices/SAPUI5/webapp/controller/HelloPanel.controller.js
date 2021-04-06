@@ -28,7 +28,7 @@ sap.ui.define(
 
             onOpenDialog: function () {   
                 //Abrir el Dialogo
-                this.getOwnerComponent().openHellowDialog();             
+                this.getOwnerComponent().openHelloDialog();             
             }
         });
     }

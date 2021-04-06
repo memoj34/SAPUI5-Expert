@@ -15,6 +15,7 @@
                     </headerContent>
                     <content>
                         <mvc:XMLView viewName="ns.SAPUI5.view.HelloPanel"/>
+                        <mvc:XMLView viewName="ns.SAPUI5.view.InvoicesList"/>
                     </content>
                 </Page>
             </pages>
